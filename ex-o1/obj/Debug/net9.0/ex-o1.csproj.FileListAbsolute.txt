@@ -1,0 +1,14 @@
+C:\Users\1556697\Desktop\lista\ex-o1\bin\Debug\net9.0\ex-o1.exe
+C:\Users\1556697\Desktop\lista\ex-o1\bin\Debug\net9.0\ex-o1.deps.json
+C:\Users\1556697\Desktop\lista\ex-o1\bin\Debug\net9.0\ex-o1.runtimeconfig.json
+C:\Users\1556697\Desktop\lista\ex-o1\bin\Debug\net9.0\ex-o1.dll
+C:\Users\1556697\Desktop\lista\ex-o1\bin\Debug\net9.0\ex-o1.pdb
+C:\Users\1556697\Desktop\lista\ex-o1\obj\Debug\net9.0\ex-o1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1556697\Desktop\lista\ex-o1\obj\Debug\net9.0\ex-o1.AssemblyInfoInputs.cache
+C:\Users\1556697\Desktop\lista\ex-o1\obj\Debug\net9.0\ex-o1.AssemblyInfo.cs
+C:\Users\1556697\Desktop\lista\ex-o1\obj\Debug\net9.0\ex-o1.csproj.CoreCompileInputs.cache
+C:\Users\1556697\Desktop\lista\ex-o1\obj\Debug\net9.0\ex-o1.dll
+C:\Users\1556697\Desktop\lista\ex-o1\obj\Debug\net9.0\refint\ex-o1.dll
+C:\Users\1556697\Desktop\lista\ex-o1\obj\Debug\net9.0\ex-o1.pdb
+C:\Users\1556697\Desktop\lista\ex-o1\obj\Debug\net9.0\ex-o1.genruntimeconfig.cache
+C:\Users\1556697\Desktop\lista\ex-o1\obj\Debug\net9.0\ref\ex-o1.dll
